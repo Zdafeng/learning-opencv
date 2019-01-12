@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 
 **4.2** 中值滤波对椒盐噪声有很好的抑制作用
 
-![1547276176614](C:\Users\zhang-pc\AppData\Roaming\Typora\typora-user-images\1547276176614.png)
+![1547276176614](https://github.com/Zdafeng/learning-opencv/blob/master/01%20OpenCV/img/8.1.png)
 
 #### 5.双边滤波
 
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 
 **5.3** 高斯双边模糊是边缘保留的滤波方法，避免了边缘信息的丢失，保留了图像轮廓不变；
 
-![1547276452134](C:\Users\zhang-pc\AppData\Roaming\Typora\typora-user-images\1547276452134.png)
+![1547276452134](https://github.com/Zdafeng/learning-opencv/blob/master/01%20OpenCV/img/8.2.png)
 
 #### 6.相关API
 
