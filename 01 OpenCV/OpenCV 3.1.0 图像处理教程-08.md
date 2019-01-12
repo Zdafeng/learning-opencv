@@ -11,8 +11,10 @@
 * 使用该操作的原因之一是为了给图像预处理时减少噪声
 
 * 使用Smooth/Blur操作其背后是数学的卷积计算
+
 ![](https://latex.codecogs.com/gif.latex?g(i,&space;j)&space;=&space;\sum_{k,&space;l}f(i&plus;k,&space;j&plus;l)h(k,&space;l))
-  $$
+  
+$$
   g(i, j) = \sum_{k, l}f(i+k, j+l)h(k, l)
   $$
 
